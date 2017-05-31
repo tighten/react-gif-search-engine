@@ -23,6 +23,14 @@
     padding: 0;
 }
 
+.gif-modal {
+    left: 50%;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+
 input {
     display: block;
     font-size: 22px;
