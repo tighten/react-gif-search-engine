@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "firebase": "^4.1.1",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
     "react-modal": "^1.7.7",
@@ -12,6 +13,7 @@
     "redux": "^3.6.0",
     "redux-form": "^6.7.0",
     "redux-promise": "^0.5.3",
+    "redux-thunk": "^2.2.0",
     "superagent": "^3.5.2"
   },
   "devDependencies": {
