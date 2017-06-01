@@ -7,6 +7,8 @@
     "react-dom": "^15.5.4",
     "react-modal": "^1.7.7",
     "react-redux": "^5.0.5",
+    "react-router-dom": "^4.1.1",
+    "react-router-redux": "^5.0.0-alpha.6",
     "redux": "^3.6.0",
     "redux-promise": "^0.5.3",
     "superagent": "^3.5.2"
